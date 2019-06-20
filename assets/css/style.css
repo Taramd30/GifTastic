@@ -1,0 +1,22 @@
+* {
+	font-size: 24px;
+}
+.header {
+	margin-top: 40px;
+	font-size: 45px;
+}
+.item {
+	display: inline-block;
+}
+.clicker {
+	margin: 5px;
+}
+img, p {
+	margin: 5px;
+}
+body {
+	background-image: url(../images/always-sunnyBackground.png);
+	background-position: center center;
+	background-size: cover;
+	background-attachment:fixed;
+}
